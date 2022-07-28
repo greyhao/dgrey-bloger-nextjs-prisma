@@ -29,7 +29,7 @@ const Header: React.FC = () => {
         }
 
         .left a[data-active="true"] {
-          color: gray;
+          color: blue;
         }
 
         a + a {
@@ -61,7 +61,7 @@ const Header: React.FC = () => {
           }
 
           .left a[data-active="true"] {
-            color: gray;
+            color: blue;
           }
 
           a + a {
@@ -136,7 +136,7 @@ const Header: React.FC = () => {
           }
 
           .left a[data-active="true"] {
-            color: gray;
+            color: blue;
           }
 
           a + a {
